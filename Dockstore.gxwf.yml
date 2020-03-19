@@ -1,7 +1,7 @@
-class: GalaxyWorkflow
-name: "Test Workflow"
+ss: GalaxyWorkflow
+na: "Test Workflow"
 doc: This is the documentation for the workflow.
-inputs:
+puts:
    input1: data
 outputs:
   wf_output_1:
