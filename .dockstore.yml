@@ -1,4 +1,4 @@
 version: 1.2
 workflows:
-   - subclass: GXFORMAT2
-     primaryDescriptorPath: /nextflow.config
+   - subclass: GALAXY
+     primaryDescriptorPath: /Dockstore.gxwf.yml
