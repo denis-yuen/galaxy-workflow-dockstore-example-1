@@ -2,3 +2,5 @@ version: 1.2
 workflows:
    - subclass: GALAXY
      primaryDescriptorPath: /Dockstore.gxwf.yml
+     testParameterFiles:
+      - /Dockstore.gxwf-test.yml
