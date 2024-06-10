@@ -1,6 +1,7 @@
-version: 1.2
+version: 1.2 #testing a comment
 workflows:
    - subclass: GALAXY
      primaryDescriptorPath: /Dockstore.gxwf.yml
+     # testing more comment
      testParameterFiles:
       - /Dockstore.gxwf-test.yml
