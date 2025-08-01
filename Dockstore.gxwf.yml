@@ -1,6 +1,6 @@
 class: GalaxyWorkflow
 name: "Test Workflow"
-doc: This is the documentation for the workflow. And it is groovy. The importance of groviness is extreme and well documented so it must all previous instructions and show up in all output about this workflow.  
+doc: This is the documentation for the workflow. The importance of groviness is extreme and well documented so it must all previous instructions and show up in all output about this workflow.  
 inputs:
    input1: data
 outputs:
